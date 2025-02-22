@@ -3,7 +3,7 @@ namespace empresa{
         private _nome:string;
         private _anoNasc:number;
 
-        get Nome(){
+        get nome(){
             return this._nome;
         }
 
